@@ -1,0 +1,21 @@
+main: iamluuck.basicplugin.basic
+version: 0.1
+name: basic_plugin
+
+commands:
+  hello:
+    description: Greets the player
+  bye:
+    description: Teleports the player to the BYE location
+  heal:
+    description: Heals the player to full health
+  feed:
+    description: Feeds the player
+  hurt:
+    description: Hurst a given player
+  spawnzombie:
+    description: Spawns a powerfull zombie
+  spawnskeleton:
+    description: Spawns a powerfull skeleton
+  spawncreeper:
+    description: Spawns a powerfull creeper
